@@ -1,0 +1,1 @@
+# pemrosesan-sekuensial2
